@@ -164,3 +164,8 @@ vercel --prod
 ```
 
 You should have a URL deployed to a domain similar to: `https://your-vercel-project-name.vercel.app/`
+## 4. Run locally:
+
+```bash
+npm run dev
+```
