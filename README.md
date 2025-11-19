@@ -157,3 +157,10 @@ For official Base developer resources, please visit:
 - [https://docs.base.org](https://docs.base.org)  
 
 ---
+### 1. Deploy to Vercel
+
+```bash
+vercel --prod
+```
+
+You should have a URL deployed to a domain similar to: `https://your-vercel-project-name.vercel.app/`
